@@ -106,7 +106,7 @@ void find_func(char *opcode, char *value, int ln, int format)
 	if (opcode[0] == '#')
 		return;
 
-	for (flg = 1, i = 0; func_list[r].opcode != NULL; r++)
+	for (flg = 1, r = 0; func_list[r].opcode != NULL; r++)
 	{
 		if (strcmp(opcode, func_list[r].opcode) == 0)
 		{
