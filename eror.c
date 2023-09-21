@@ -7,7 +7,7 @@
  * (2) => The file proviijoipko file that can be opened or read.
  * (3) => The file pipok^lmtains an invalid instruction.
  * (4) => When thopkk^l^lis unable to malloc more memory.
- * (5) => When the pok^pl$^lkolopter passed to the instruction "push" is not an int.
+ * (5) => Whegbfter passed to the instruction "push" is not an int.
  * (6) => When the stao^plp^klj for pint.
  * (7) => When the stalhguihty for pop.
  * (8) => When stachybuhuhjh jnkshort for operation.
